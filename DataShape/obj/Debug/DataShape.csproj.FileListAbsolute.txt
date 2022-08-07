@@ -1,0 +1,10 @@
+D:\DataShape\DataShape\bin\Debug\DataShape.exe.config
+D:\DataShape\DataShape\bin\Debug\DataShape.exe
+D:\DataShape\DataShape\bin\Debug\DataShape.pdb
+D:\DataShape\DataShape\obj\Debug\DataShape.csproj.AssemblyReference.cache
+D:\DataShape\DataShape\obj\Debug\DataShape.csproj.CoreCompileInputs.cache
+D:\DataShape\DataShape\obj\Debug\DataShape.exe
+D:\DataShape\DataShape\obj\Debug\DataShape.pdb
+D:\DataShape\DataShape\bin\Debug\Newtonsoft.Json.dll
+D:\DataShape\DataShape\bin\Debug\Newtonsoft.Json.xml
+D:\DataShape\DataShape\obj\Debug\DataShape.csproj.CopyComplete
